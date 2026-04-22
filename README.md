@@ -4,9 +4,15 @@ Almost all fallout cheats you see nowadays were built from this source here back
 
 Uploaded since I dont plan on updating anything, nor do I care if this is fixed.
 
+This is free to use, Edit, Update or whatever, i couldnt care less honestly, as long as you remember you will always remain a skid pasting from others work 😊💕 
+
+
+
 features off the top of my head, maybe i forgot something:
 
+
 Main:
+
 Speed Hack
 No Clip
 Toggle Player Freecam
@@ -26,6 +32,7 @@ Set Player Fov
 Modify Player Size
 
 Combat:
+
 All Shots Criticals
 Weapon Mod Customiser
 Auto Ranged Weapons 
@@ -37,6 +44,7 @@ No Weapon AP
 Ranged Weapon Firerate Modifier
 
 Special:
+
 Call / Modify Game Scripts (Papyrus)
 Send Console Commands
 Request Server Teleport

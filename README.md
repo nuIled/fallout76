@@ -5,8 +5,8 @@ This is my fallout 76 side project I used to better teach myself thingies, it wa
 
 ‎ 
 Almost all fallout cheats you see nowadays were built from this source here back when I leaked a much worse version a while ago, incredible to think people believe taking my code and running it through an ai code assistant to re-customise the theme and add some useless feature they found through guidedhacking on youtube makes it their cheat, but whatever, im not really bothered about that, you go get that clout girl 💅🏿
-
 ‎ 
+
 Uploaded since I dont plan on updating anything, nor do I care if this is fixed.
 
 
@@ -19,7 +19,8 @@ features off the top of my head, maybe i forgot something:
 ‎ 
 
 ‎ 
-Main:
+
+Main Features:
 
 ‎ 
 

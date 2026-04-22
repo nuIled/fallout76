@@ -15,6 +15,9 @@ Uploaded since I dont plan on updating anything, nor do I care if this is fixed.
 This is free to use, Edit, Update or whatever, i couldnt care less honestly, as long as you remember you will always remain a skid pasting from others work 😊💕 
 ‎ 
 
+Credit goes to - [sussy](https://github.com/LaurMost) and scar, all wouldnt have been possible without their contribution 
+ 
+
 Features off the top of my head, maybe i forgot something:
 
 ‎ 

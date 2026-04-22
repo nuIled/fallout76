@@ -14,6 +14,8 @@ This is free to use, Edit, Update or whatever, i couldnt care less honestly, as 
 features off the top of my head, maybe i forgot something:
 
 
+
+
 Main:
 
 Speed Hack
@@ -52,6 +54,8 @@ Modify Player Size
 
 
 
+
+
 Combat:
 
 All Shots Criticals
@@ -71,6 +75,8 @@ No Reload
 No Weapon AP
 
 Ranged Weapon Firerate Modifier
+
+
 
 
 

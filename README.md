@@ -22,8 +22,6 @@ Features off the top of my head, maybe i forgot something:
 
 ‎Main Features:
 
-‎ 
-
 Speed Hack
 
 No Clip
@@ -63,7 +61,6 @@ Modify Player Size
 
 
 Combat:
-‎ 
 
 All Shots Criticals
 
@@ -87,8 +84,6 @@ Ranged Weapon Firerate Modifier
 ‎ 
 
 Special:
-
-‎ 
 
 Call / Modify Game Scripts (Papyrus)
 

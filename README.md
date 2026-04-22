@@ -17,44 +17,82 @@ features off the top of my head, maybe i forgot something:
 Main:
 
 Speed Hack
+
 No Clip
+
 Toggle Player Freecam
+
 Player Teleporter
+
 Raids Snake Teleporter
+
 Set Carryweight
+
 Sprint While Overweight
+
 Player Superjump
+
 Player Jetpack Modifier
+
 Player State Modifier
+
 Player Velocity Modifier
+
 Set Time of Day
+
 Set Cloud Speed
+
 Set Star Position
+
 Set Melee Speed
+
 Set Player Fov
+
 Modify Player Size
+
+
 
 Combat:
 
 All Shots Criticals
+
 Weapon Mod Customiser
+
 Auto Ranged Weapons 
+
 Auto Melee Weapons
+
 Infinite Ammo
+
 No Attack Delay
+
 No Reload
+
 No Weapon AP
+
 Ranged Weapon Firerate Modifier
+
+
 
 Special:
 
 Call / Modify Game Scripts (Papyrus)
+
 Send Console Commands
+
 Request Server Teleport
+
 Apply Combat Spells to Player
+
 Equip Any Item
+
 Cell Teleporter
+
 Kill Actor
+
 Set Player Alpha
+
 Set Player Size
+
 Play Animations on player by Formid
+
